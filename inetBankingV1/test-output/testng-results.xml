@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-24T20:47:00 IST" name="InetBankingV1" finished-at="2022-01-24T20:47:43 IST" duration-ms="43077">
+    <groups>
+    </groups>
+    <test started-at="2022-01-24T20:47:00 IST" name="BankingApp Test" finished-at="2022-01-24T20:47:43 IST" duration-ms="43077">
+      <class name="com.inetBanking.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@49c7b90e]" started-at="2022-01-24T20:47:00 IST" name="setup" finished-at="2022-01-24T20:47:27 IST" duration-ms="26752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintext()[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@49c7b90e]" started-at="2022-01-24T20:47:27 IST" name="logintext" finished-at="2022-01-24T20:47:42 IST" duration-ms="15819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintext -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@49c7b90e]" started-at="2022-01-24T20:47:43 IST" name="tearDown" finished-at="2022-01-24T20:47:43 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetBanking.testCases.TC_LoginTest_001 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- InetBankingV1 -->
+</testng-results>
